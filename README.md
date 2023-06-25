@@ -7,7 +7,7 @@
 
 [中文 README](README-cn.md)
 
-GoGoCode is a transformer for JavaScript/Typescript/HTML based on AST but providing an intuitive API:
+GoGoCode is a transformer for JavaScript/Typescript/HTML based on AST but providing an intuitive API有如下:
 
 -   A jQuery-like API to select and transform AST.
 -   A Regex-like syntax to match and replace code.
